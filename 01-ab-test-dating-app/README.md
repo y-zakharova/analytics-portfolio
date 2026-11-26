@@ -1,4 +1,4 @@
-# Dating App A/B Test: From Topline Win to the Right Launch Decision
+# Social App A/B Test: From Topline Win to the Right Launch Decision
 
 ![Cover](cover.png)
 

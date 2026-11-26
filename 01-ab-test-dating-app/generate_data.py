@@ -1,6 +1,6 @@
 """
 Synthetic dataset for a portfolio A/B-test case study.
-Fictional dating app "Driftly", test: "Conversation Starters"
+Fictional social discovery app "Driftly", test: "Conversation Starters"
 (3 suggested opening lines on the match screen).
 All data is SIMULATED. No real company data is used.
 """
