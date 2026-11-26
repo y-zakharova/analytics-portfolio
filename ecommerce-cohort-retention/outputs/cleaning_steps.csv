@@ -1,0 +1,11 @@
+step,lines,orders,orders removed
+Raw export,541909,25900,0
+Exact duplicates removed,536640,25900,0
+Incomplete month after 30 Nov 2011 removed,511394,24885,1015
+Staff / test orders removed,511394,24885,0
+Orders with status cancelled / refunded / voided removed,511394,24885,0
+Cancellation documents (negative lines) removed,501196,19889,4996
+Original purchase lines that were fully returned removed,498440,19747,142
+Non-merchandise lines removed,496217,19582,165
+Zero / negative price lines removed,495084,18837,745
+Clean product lines (orders with ≥1 product),495084,18837,0
