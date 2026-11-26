@@ -1,6 +1,6 @@
 """
 Synthetic data for a portfolio case study: behavioral user segmentation.
-Fictional subscription dating app "Driftly". All data is SIMULATED.
+Fictional subscription social discovery app "Driftly". All data is SIMULATED.
 users.csv: 30-day behavior features (1-30 Sep 2025) + outcomes in the following 30 days.
 The latent segment is NOT included in the output.
 """

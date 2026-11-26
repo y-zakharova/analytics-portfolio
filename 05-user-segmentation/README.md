@@ -1,4 +1,4 @@
-# Dating App User Segmentation: Six Behavior Groups and What to Do With Each
+# Social App User Segmentation: Six Behavior Groups and What to Do With Each
 
 ![Cover](cover.png)
 
