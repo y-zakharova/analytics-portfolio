@@ -41,4 +41,4 @@ jupyter notebook
 > **Data note:** all data is simulated for a fictional company. No real company or user data is used. The cases mirror problems I work on, rebuilt from scratch on synthetic data so the methods and reasoning can be shown in full.
 
 ## Contact
-Upwork: [add your profile link](https://www.upwork.com/) · LinkedIn: [add your profile link](https://www.linkedin.com/)
+Upwork: [add your profile link](https://www.upwork.com/freelancers/~01e9f12bceefc5eaee) · LinkedIn: [add your profile link](https://www.linkedin.com/in/yelyzaveta-zakharova/)
